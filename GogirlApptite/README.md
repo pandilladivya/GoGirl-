@@ -3,7 +3,7 @@ Women aren’t safe outside given the increasing crimes. GoGirl! ensures **Women
 
 The application has the following models:
 
- 1.Safe and unsafe points will be marked on maps
+ 1.Safe and unsafe points will be marked on maps    
  
  2.Training women using '*move of the day* – **tactics for self-defence**'
  
